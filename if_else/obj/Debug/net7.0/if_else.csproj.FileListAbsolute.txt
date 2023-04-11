@@ -1,0 +1,15 @@
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.csproj.AssemblyReference.cache
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.AssemblyInfoInputs.cache
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.AssemblyInfo.cs
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.csproj.CoreCompileInputs.cache
+/Users/ridhub/Desktop/if-else_statements/if_else/bin/Debug/net7.0/if_else
+/Users/ridhub/Desktop/if-else_statements/if_else/bin/Debug/net7.0/if_else.deps.json
+/Users/ridhub/Desktop/if-else_statements/if_else/bin/Debug/net7.0/if_else.runtimeconfig.json
+/Users/ridhub/Desktop/if-else_statements/if_else/bin/Debug/net7.0/if_else.dll
+/Users/ridhub/Desktop/if-else_statements/if_else/bin/Debug/net7.0/if_else.pdb
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.dll
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/refint/if_else.dll
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.pdb
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/if_else.genruntimeconfig.cache
+/Users/ridhub/Desktop/if-else_statements/if_else/obj/Debug/net7.0/ref/if_else.dll

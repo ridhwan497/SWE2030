@@ -1,0 +1,15 @@
+/Users/ridhub/Desktop/if-else_statements/arrays/bin/Debug/net7.0/arrays
+/Users/ridhub/Desktop/if-else_statements/arrays/bin/Debug/net7.0/arrays.deps.json
+/Users/ridhub/Desktop/if-else_statements/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/Users/ridhub/Desktop/if-else_statements/arrays/bin/Debug/net7.0/arrays.dll
+/Users/ridhub/Desktop/if-else_statements/arrays/bin/Debug/net7.0/arrays.pdb
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.dll
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/refint/arrays.dll
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.pdb
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/Users/ridhub/Desktop/if-else_statements/arrays/obj/Debug/net7.0/ref/arrays.dll
