@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7DmzRSwEVxQiXGSOgC9FCTGsawXiWqij7hpKtsIYvCqZmBYOu1jCZzbQkHgNdeUP9VtfWyhiViEfyV5XmlxWQQ==",
+  "dgSpecHash": "NiLSgR8uaWV2faBuqM7LXgs7fdP1w/j835doPAHZDWC5M/M/tQ3fl3NhtlFCvLkzL0SnCKPOdlM8+XhNauDNvQ==",
   "success": true,
-  "projectFilePath": "/Users/ridhub/Desktop/if-else_statements/HelloWorld/helloWord.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ridhub/Desktop/SWE2030/HelloWorld/helloWord.csproj",
+  "expectedPackageFiles": [
+    "/Users/ridhub/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/ridhub/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/ridhub/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

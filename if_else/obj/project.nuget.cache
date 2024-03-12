@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zuw0HfDYNxALiEvCIok5gEORYJslikCiiQaMOFbIjAGdB5EvyoIErIsnqPLTtVrVkEo8A36vXIRNVmWEeyimTg==",
+  "dgSpecHash": "/J2R1woFzBEflTyKqfXqqvrkvpAywgvuAyJ//52KGGGXPQB6v8ESkJMuTKC/Tfw0upIyLdWEftONGOnb1khUTw==",
   "success": true,
-  "projectFilePath": "/Users/ridhub/Desktop/if-else_statements/if_else/if_else.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ridhub/Desktop/SWE2030/if_else/if_else.csproj",
+  "expectedPackageFiles": [
+    "/Users/ridhub/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/ridhub/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/ridhub/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
