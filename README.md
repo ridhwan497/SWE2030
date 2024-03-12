@@ -1,5 +1,5 @@
 You've been asked to add a feature to your company's software. The feature is intended to improve the renewal rate of subscriptions to the software. Your task is to display a renewal message when a user logs into the software system and is notified their subscription will soon end. You'll need to add a couple of decision statements to properly add branching logic to the application to satisfy the requirements.
-
+1)
 Review the business rules for this challenge
 
 Rule 1: Your code should only display one message.
